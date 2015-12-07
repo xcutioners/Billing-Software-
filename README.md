@@ -8,7 +8,9 @@ The software was built in three softwares
 These software was built only using if-else statements.
 These is a piece of code that i have written in action script :-
 
-public function ShowBill25(e: MouseEvent): void {
+
+	public function ShowBill25(e: MouseEvent): void {
+
 			billing24.x = 450;
 			billing24.y = 100;
 			adjTot24();
