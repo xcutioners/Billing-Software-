@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<data>
+  <fields>
+    <table>0</table>
+    <date>27/4/2015</date>
+    <items>ice gola , kulfhi , bhel</items>
+    <quantity>2 , 1 , 2</quantity>
+    <total>500</total>
+  </fields>
+  <fields>
+    <table>2</table>
+    <date>27/4/2015</date>
+    <items>gola , bhel , kulfhi</items>
+    <quantity>1 , 1 , 1</quantity>
+    <total>300</total>
+  </fields>
+  <fields>
+    <table>3</table>
+    <date>28/4/2015</date>
+    <items>gola</items>
+    <quantity>1</quantity>
+    <total>40</total>
+  </fields>
+  <fields>
+    <table>4</table>
+    <date>29/4/2015</date>
+    <items>kulfhi, gola, icecream</items>
+    <quantity>1, 2, 1</quantity>
+    <total>800</total>
+  </fields>
+  <fields>
+    <table>5</table>
+    <date>3/5/2015</date>
+    <items>gola , khulfhi</items>
+    <quantity>3</quantity>
+    <total>500</total>
+  </fields>
+  <fields>
+    <table>8</table>
+    <date>5/3/2015</date>
+    <items>bhel</items>
+    <quantity>5</quantity>
+    <total>200</total>
+  </fields>
+</data>
