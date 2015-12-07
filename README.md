@@ -1,9 +1,9 @@
 # Billing-Software-
-Billing Software For Ice Cream Parlour
-The software was built in three softwares 
-1) Adobe Flash Professional - to build an adobe air application
-2) Xampp - To maintian database
-3)Php - to communication between adobe air and mysql.
+Billing Software For Ice Cream Parlour.
+The software was built in three softwares -
+	1) Adobe Flash Professional - to build an adobe air application
+	2) Xampp - To maintian database
+	3)Php - to communication between adobe air and mysql.
 
 These software was built only using if-else statements.
 These is a piece of code that i have written in action script :-
